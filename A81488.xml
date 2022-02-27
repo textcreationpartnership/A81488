@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An oration of Agrippa to Octavius Cæsar Augustus, against monarchy. Taken out of the LII. book of Dion the philosopher, Cælius, S.C. being the interpreter. Printed at Basil after the end of Nichol. Machiavels Prince, anno M.D.XXC. / And now put into English by A.R.</title>
+            <author>Cassius Dio Cocceianus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81488</idno>
+            <idno type="STC">Wing D1503B</idno>
+            <idno type="STC">Thomason E972_3</idno>
+            <idno type="STC">ESTC R207746</idno>
+            <idno type="EEBO-CITATION">99866782</idno>
+            <idno type="PROQUEST">99866782</idno>
+            <idno type="VID">119068</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119068)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 144:E972[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An oration of Agrippa to Octavius Cæsar Augustus, against monarchy. Taken out of the LII. book of Dion the philosopher, Cælius, S.C. being the interpreter. Printed at Basil after the end of Nichol. Machiavels Prince, anno M.D.XXC. / And now put into English by A.R.</title>
+                  <author>Cassius Dio Cocceianus.</author>
+                  <author>A. R.</author>
+                  <author>Agrippa, Marcus Vipsanius.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Livewell Chapman at the Crown in Popes-head-Ally,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657. [i.e. 1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "march 3d March. 3"; the 7 in the imprint date has been altered to read "8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Augustus, --  Emperor of Rome, 63 B.C.-14 A.D. --  Early works to 1800.</term>
+               <term>Monarchy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119068:1" rendition="simple:additions"/>
+            <p>AN ORATION OF AGRIPPA TO <hi>Octavius Caeſar Auguſtus,</hi> AGAINST <hi>MONARCHY.</hi>
+            </p>
+            <p>Taken out of the LII. Book of <hi>Dion</hi> the <hi>Philoſo<g ref="char:EOLhyphen"/>pher, Caelius, S. C.</hi> being the Interpreter. Printed at <hi>Baſil</hi> after the End of <hi>Nichol. Machiavels</hi> Prince, <hi>Anno</hi> M.D.XXC.</p>
+            <p>And now put into Engliſh by <hi>A. R.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Habb. 2.9.</hi>
+               </bibl> Woe to him that coveteth an evill coveteouſneſs to his houſe, that he may ſet his neſt on high, that he may be delivered from the power of evill.</q>
+            <q>
+               <bibl>
+                  <hi>Verſ. 12.</hi>
+               </bibl> Wo to him that buildeth a Town with blood, and e<g ref="char:EOLhyphen"/>ſtabliſh a City by Iniquity.</q>
+            <q>
+               <bibl>
+                  <hi>Verſ. 8.</hi>
+               </bibl> The Remnant of the People ſhall ſpoile thee, becauſe of mens blood, and for the violence of the land of the City, and of all that dwell therein.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Livewell Chapman</hi> at the <hi>Crown</hi> in <hi>Popes-head-Ally.</hi> 1658.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119068:2"/>
+            <head>To the Reader.</head>
+            <p>THis Diſcourſe comming by an unexpected pro<g ref="char:EOLhyphen"/>vidence into my hands; after peruſall, I had many impulſes within me to make it ſpeake in the Engliſh Dialect: At laſt, I obeyed and intend it for the good of this <hi>Commonwealth,</hi> as the Authour did for his. He was an intimate friend to <hi>Octavius Au<g ref="char:EOLhyphen"/>guſtus,</hi> with whom he communicated in all his coun<g ref="char:EOLhyphen"/>ſels; and this <hi>Octavius</hi> was the Adopted Son and Heire of <hi>Julius Caeſar,</hi> the great and Victorious Ge<g ref="char:EOLhyphen"/>neral of the <hi>Romanes,</hi> who (after his many Con<g ref="char:EOLhyphen"/>queſtes) affecting the Government, and to be a King, was miſerably ſtub'd to death, with twenty three wounds by the Senators, as the Reward of his <g ref="char:V">Ʋ</g>ſur<g ref="char:EOLhyphen"/>pation. I am pained to the very heart, to think how the plain heartedneſs, fidelity and honeſty of this <hi>Romane</hi> Heathen (who ſcorn'd for his own private lucre, to betray the cauſe of his Country &amp; the truth) ſhall one day riſe up in judgement againſt the Trea<g ref="char:EOLhyphen"/>chery, Perjury and Corruption of high profeſſing Chriſtians in this Generation, and condemne them.</p>
+            <p>I have dealt faithfully in the Tranſlation, not va<g ref="char:EOLhyphen"/>rying from the honeſt Authors ſenſe at all, if at any time from his words: If it may be of any ſervice to my Country, I ſhall rejoyce therein; That being the great deſire of him, who is devoted thereunto,</p>
+            <closer>
+               <signed>A. R.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:119068:2"/>
+            <head>The Diſcourſe of <hi>Agrippa</hi> to <hi>Auguſtus Caeſar</hi> againſt MONARCHY.</head>
+            <p>DOe not wonder <hi>Caeſar,</hi> that I who may have ſo many benefits heaped upon me by thy Kingſhip, ſhould diſſwade thee from it; who (if it were likely to become profitable to thee) ſhould rather per<g ref="char:EOLhyphen"/>ſwade thee to it: But ſith there is no ſimilitude betwixt the <hi>condition of Princes</hi> and their friends, becauſe the bleſ<g ref="char:EOLhyphen"/>ſings they receive by <hi>them</hi> are taken without envy or danger, when all the hatred and loſſe redounds upon the Prince himſelf: I have thought it my duty, as in other things, ſo alſo in this, not to have reſpect to my own profit and gain, but to thine and the common good of all: Let us therefore with an unprejuced minde con<g ref="char:EOLhyphen"/>ſider of all things, which are contained in this Kingſhip.</p>
+            <p>And firſt of all, let us turn our eyes upon that, to which reaſon it ſelf doth lead us; for no man will ſay,<note place="margin">
+                  <hi>Sect.</hi> 1.</note> that this <hi>Dominion</hi> is to be deſired, unleſſe it may become profitable; otherwiſe, we ſhall ſeem either lifted up with proſperity, or blown up with our victories, to have af<g ref="char:EOLhyphen"/>fected the kingdome long before: or that the Senate and the People of <hi>Rome</hi> had propounded to us, not that we ſhould deliver them from their Enemies, but that we ſhould bring them into bondage; both which are to be diſcommended: For who finding one thing to be pro<g ref="char:EOLhyphen"/>feſſed in words, and another thing intended by us, can forbear to be in indignation againſt us? Who would not
+<pb n="2" facs="tcp:119068:3"/>now proſecute us with greater hatred, than if we had manifeſted our deſire from the firſt, and had openly aſpi<g ref="char:EOLhyphen"/>red to the Throne? For it is believed, agreeable to the nature of man, to dare to attempt ſuch a thing by force, although it ſeem unjuſt; for whoever ſtudies to excell or go before another in any thing, he deſires alſo to ob<g ref="char:EOLhyphen"/>tain better things than he whom he deſires to excell: which if it ſucceed proſperouſly is attributed to the <hi>power of Fortune,</hi> and the contrary to its <hi>inconstancy:</hi> But now whoever Imagines by <hi>deceit and fraude</hi> to compaſſe ſuch a thing, he is firſt of all accounted a <hi>deceitfull, inconſtant, and wicked man,</hi> with which vices I perſwade my ſelfe thou wouldſt not willing be taxed, though thou mighteſt gain the Empire of the whole world; and then if the thing ſucceed, he ſeems to have gotten but an <hi>unjuſt gain;</hi> but if otherwiſe, all mortall men will think, that <hi>all evils are deſervedly</hi> fallen upon thee: which although they ſhould not happen, yet this muſt be needs imputed as a Crime, that whileſt at firſt we had thought nothing of a Throne, yet now at laſt we ſhould deſire it; for he is much more worthy to be reproved, who is overcome by his preſent Fortune, not being able to contain himſelf and moderately uſe his proſperity, than he that in ad<g ref="char:EOLhyphen"/>verſity is injurious to others. For ſome men are very often thruſt upon ſin, and the proſecution of their own advantages, by their miſeries and not by their own will, but theſe on purpoſe and deſigne are contriving againſt common good: And who can think that ſuch can go<g ref="char:EOLhyphen"/>vern well, or be conſtant in adverſity, who are neither endued with any ſimplicity of heart, nor can rightly uſe the gifts that have been beſtowed upon them.</p>
+            <p>Let me deal freely with thee, nor can I indeed ſpeake any otherwiſe,<note place="margin">
+                  <hi>Sect.</hi> 2.</note> for I know thee to be a perſon who art not taken with lies or flattery. Equality and Right, are things of greateſt reverence; and is it not juſt and right that they who are of the ſame nature and Nation, edu<g ref="char:EOLhyphen"/>cated under the ſame laws and cuſtoms, and have con<g ref="char:EOLhyphen"/>tributed by the ſame uſe of Heads and Hands, for the good of their Country, ſhould have other things in common likewiſe? Neither is it fit that one be preferred
+<pb n="3" facs="tcp:119068:3"/>above another, unleſſe it be, becauſe he excels in vertue; for the like condition requires a like diſtribution, which if men obtain, they are pleaſed, if not diſguſted: And ſince mankinde hath drawn his original from above, and muſt again return thither, he looketh upward, and w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll not alwayes be ſubject to one man below, nor can en<g ref="char:EOLhyphen"/>dure that whileſt he is a partner in the Travels, Dangers and Expences of his country, he ſhould be ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>luded from the profit thereof: And although he may be com<g ref="char:EOLhyphen"/>pel'd to ſuffer ſuch things, he alwayes hates him who is the Author of that force, and is ready to take vengeance on him upon all occaſions: For all men are deſirous of Rule or Government, and upon that account are wil<g ref="char:EOLhyphen"/>ling to endure it, yet will not ſuffer themſelves to be oppreſt, but rejoyce in ſuch Honours as are given them by their equals, and likewiſe commend thoſe pu<g ref="char:EOLhyphen"/>niſhments which are inflicted according to the Laws. Therefore in this ſtate of things, knowing both good and evill to be common, they deſire the hurt of none, but wiſh well to every one. And if any be endued with any ſingular vertue, he both willingly doth manifeſt, and and cheerfully doth exerciſe the ſame; and if he per<g ref="char:EOLhyphen"/>ceive the ſame to appear in any other, he undauntedly doth encourage it, ſtudies to encreaſe it, and ſpeaks honourably thereof: But if any be wicked and diſho<g ref="char:EOLhyphen"/>neſt, he is hated by all good men, but he that is affli<g ref="char:EOLhyphen"/>cted by ſufferings, all men do pitty, and the injury and reproach which is ſuffered, is held to be in common: This is the nature of a Popular State.</p>
+            <p>But now in Tyrany all things are found contrary:<note place="margin">
+                  <hi>Sect.</hi> 3.</note> but what need we ſpeak more, in a word, there is none that is willing to have any excellent thing appeare in him, becauſe all the great ones are his enemies upon that account: All men do make the Princes manners the rule of their own life, and what they think they can effect without danger, that they labour in, whereby almoſt all do ſtudy nothing but their own particular advanta<g ref="char:EOLhyphen"/>ges. All other men they hate, reckoning the happineſs of ſuch to be their miſery, and the calamity of ſuch to be their gain: And ſith things are ſo, why thou ſhould'ſt
+<pb n="4" facs="tcp:119068:4"/>be moved to deſire the Throne, I know not; for beſide that, that its trouble ſome to the People, it is like to prove much more troubleſome to thy ſelf: Doſt thou not ſee the nation and the affaires thereof yet troubled and un<g ref="char:EOLhyphen"/>quiet? and how difficult it will be to reduce our people who have ſo long taſted liberty, and no leſſe difficult to bring into bondage our fellows and companions, of which, ſome uſe their own laws, and others have been made free by us, eſpecially ſith we have ſo many enemies round about us?</p>
+            <p>And that I may begin with that which is to be accoun<g ref="char:EOLhyphen"/>ted the firſt and chiefeſt;<note place="margin">
+                  <hi>Sect.</hi> 4.</note> much money is upon every oc<g ref="char:EOLhyphen"/>caſion to be found out by thee, for which thy preſent e<g ref="char:EOLhyphen"/>ſtate (as well for other things, but eſpecially to maintain the Armies) is never able to ſuffice: which difficulty, although it ariſe in a popular State alſo becauſe no com<g ref="char:EOLhyphen"/>monwealth can be without expence; yet in that State moſt men do willing contribute much, becauſe they do it ayming to ariſe at greater honours, and do receive from thence worthy rewards; And if by Pole, neceſſary Tributes be required, they do it not unwillingly, ſatis<g ref="char:EOLhyphen"/>fying themſelves herein, that they do it for their own benefit and advantage: But in Monarchy, all hold it e<g ref="char:EOLhyphen"/>quall, that the Prince abounding in wealth ſhould un<g ref="char:EOLhyphen"/>dergo the charge, inquiring diligently into his Incomes, but not ſo readily into the occaſions of his expences: And therefore particular perſons do by private wayes contribute againſt their wills, and do not readily aſſent unto the common Taxes; for the firſt no man would do, leſt he ſhould betray himſelf to be rich; nor would it be profitable to the Prince if he ſhould, becauſe by this means he might get a popular opinion, and being ſo heightned, might attempt ſome new commotions. And for the ſecond (to wit) to pay a common Tax, is very grievous and burdenſome unto many; eſpecially ſince they re<g ref="char:EOLhyphen"/>ceive the detriment and others the profit thereof; For in a popular State, they which pay the Tax, for the moſt part have to do with the Campe, by which their money ſome way or other returns back again into their hands; But in the Government of One, there are one ſort of
+<pb n="5" facs="tcp:119068:4"/>perſons which Till the Land, Trade and play the Mer<g ref="char:EOLhyphen"/>chants, from whom the greateſt part of the money is ex<g ref="char:EOLhyphen"/>torted; and another ſort, who follow the Wars, and do receive Sallaries: And this is one of thoſe things which is like to breed thee trouble.</p>
+            <p>There is a ſecond thing which I ſhall open:<note place="margin">
+                  <hi>Sect.</hi> 5.</note> who ever commits any wickedneſs, it behoveth that he be puniſh<g ref="char:EOLhyphen"/>ed; now a great part of men can neither be chaſtized by chidings, nor examples, but are altogether to be puniſh<g ref="char:EOLhyphen"/>ed by diſgrace, baniſhment, or death; which thing, in ſo great an Empire, and ſo great a multitude of men, and eſpeciall in the change of a Commonwealth, are wont to happen: Now theſe guilty ones, if thou commit their judgment unto others ſhalbe abſolved, if they be ſuch as are reputed to be thy enemies, for then the Judges think themſelves mighty, when they give judgement againſt the opinion of the Prince: And if at any time they be con<g ref="char:EOLhyphen"/>demned, they will ſeem to bear their puniſhment at thy inſtigation. But if thy ſelf be Judge, thou muſt needs pu<g ref="char:EOLhyphen"/>niſh many that are thy equals, which thing will make thy life unhappy, and thou wilt ſeem altogether to inflict thy puniſhments in wrath, rather than in equity: For ſuch in whoſe power it is to offer violence, are thought by no man to decree righteous judgement: For all men think them only to hold forth the colour and ſhadow of a Commonwealth, and by the pretence of legal judgments to ſatisfie their unlawfull luſts: Thoſe things fall out in the Dominion of a ſingle-Perſon, but in a Popular ad<g ref="char:EOLhyphen"/>miniſtration, if any do tranſgreſſe, Judges are propoſed of perſons like unto himſelf, by which it comes to paſſe, that what ever happens, it is more eaſily born, becauſe men think themſelves not forc't to ſuffer any thing from the Judge, either by power or favour.</p>
+            <p>Again, beſide, ſuch who offer injury to others, very many being heightned either by blood or riches,<note place="margin">
+                  <hi>Sect.</hi> 6.</note> or ſome other way, who although they live inoffenſive towards others, yet are they againſt the power of a ſingle Perſon, who if he ſuffers ſuch to thrive, cannot live ſafe, and if he would ſuppreſſe them, he cannot juſtly do it: Now which way wilt thou handle theſe men, how wilt thou
+<pb n="6" facs="tcp:119068:5"/>behave thy ſelf towards them? For if thou wilt cut off their ſtock, if thou wilt diminiſh their riches, or depreſs their growth, thou wilt get no reputation amongſt thy People: For how canſt thou be beloved, when it is not lawfull for any man to be nobly deſcended, or to get ri<g ref="char:EOLhyphen"/>ches, to become valiant, magnanimous, or wiſe? And if thou ſuffer ſuch to increaſe, thou muſt not eaſily after<g ref="char:EOLhyphen"/>ward put them upon ſervice. Now if thou couldſt Go<g ref="char:EOLhyphen"/>vern the Commonwealth, and do all that pertains unto the Wars alone, and hadſt no need of any Colleague or helper in any thing, the matter would be otherwiſe: But ſince thou haſt altogether need of many Aſſociates in Adminiſtration of thy affairs, eſpecially in ſuch a por<g ref="char:EOLhyphen"/>tion of the World; and it is altogether reaſon that they ſhould be wiſe and valiant: Therefore if thou ſhalt put the Government and Army into ſuch hands, doſt thou not caſt thy ſelf and People into extream hazard? for it cannot be, that any man ſhould be excellent and great, but that he alſo ſhould be bold; nor can any man of a baſe and low condition ſcarce become magnanimous; and if at any time ſuch a one become bold, by and by ſprings up in him, a true love to liberty and an hatred of Kingſhip: But if now thou ſhalt have no confidence in ſuch as theſe, but wilt rather make uſe of common men, thou preſently incurreſt the hatred of thoſe gallant men becauſe thou ſeemeſt no way to repoſe thy confidence in them: Beſide, in doing this, thou erreſt in thy greateſt affairs of State, for what can an unexperienced perſon, and a man of an abject fortune do? What enemy is there, that will not diſpiſe ſuch a perſon? Which of his com<g ref="char:EOLhyphen"/>panions will obey him? What true Souldier, but will with indignation ſcorn to be under his command? But there is no need for me to enumerate all theſe evils, which thou thy ſelf knoweſt right-well; this onely I muſt ſay, that if ſuch perſons manage not thy affairs well, they being more detriment to thee than to the enemy; and if they do, by reaſon of their ignorance, they are blown up with pride, which may afterwards prove terrour to thee.</p>
+            <p>But in a Commonwealth none of theſe things do hap<g ref="char:EOLhyphen"/>pen;<note place="margin">
+                  <hi>Sect.</hi> 7.</note> but the richer and more valiant men are, the more
+<pb n="7" facs="tcp:119068:5"/>are they deſirous of honour, and therefore by all good ways labour for the proſperity of the State, and ſo, pro<g ref="char:EOLhyphen"/>fit with joy and cheerfulneſſe comes in both upon them<g ref="char:EOLhyphen"/>ſelves and upon the whole: Unleſſe any one amongſt them make a ſtep toward Tyranny, and then they ſevere<g ref="char:EOLhyphen"/>ly mark his paths and puniſh him accordingly. That theſe things are ſo in truth, and that the <hi>Government of a Com<g ref="char:EOLhyphen"/>monwealth</hi> is to be prefer'd far before <hi>that of a ſingle Perſon,</hi> is moſt demonſtrable from the examples of <hi>Greece:</hi> For whileſt all things were Governed by the <hi>will of One,</hi> they never did any great matter; but after that they fell into the form of a <hi>Commonwealth,</hi> they became moſt famous. The ſame thing is alſo manifeſt from the examples of other places, of which ſome living under Tyrants, are alwayes ſlaves, and ſo always treacherous to their Lords: Others having often change of their chief Magiſtrates, uſing their own laws, continue in their Liberties But why do I ſeek examples from abroad, when we abound with enough at home? For we Romans our ſelves, af<g ref="char:EOLhyphen"/>ter we had been broken to pieces, and ſuffered very hard things by our Monarchicall Lords, a deſire of liberty ſprang up in us, which when we had attained, relying onely upon the good ways of a Common-wealth, we are arrived at the greatneſs which you ſee. For <hi>the Senate</hi> (or grand Council) firſt of all <hi>propoſeth,</hi> after that <hi>the people decreeth</hi> and commande<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, then is <hi>the Army</hi> ready to o<g ref="char:EOLhyphen"/>bey, and <hi>their Commanders</hi> deſirous of Honour in the ex<g ref="char:EOLhyphen"/>ecution, of which there hath not been found the like in the Domination of a ſingle perſon: <hi>And for theſe cauſes our Ancestors ſo exceedingly hated that kinde of Government, that they eſtabliſhed it execrable by a law, and for ever to be de<g ref="char:EOLhyphen"/>teſted.</hi>
+            </p>
+            <p>But to paſſe by theſe things,<note place="margin">
+                  <hi>Sect.</hi> 8.</note> and ſpeak of what con<g ref="char:EOLhyphen"/>cerns thy own perſon, how canſt thou endure the ma<g ref="char:EOLhyphen"/>nagement of theſe affairs day and night; eſpecially if thou enjoyeſt not thy perfect health? And if thou beeſt deprived thereof, what content canſt thou receive? And wherewithall canſt thou be delighted? And when art thou like to be without the greateſt trouble? For it is impoſſible, but he that hath ſo large an Empire, muſt have both the care and fear of many things, but the ſenſe
+<pb n="8" facs="tcp:119068:6"/>of very few which do delight, and always and in every place muſt both hear and ſee, do and ſuffer things that are moſt grievous: For which cauſe I ſuppoſe, certain both of the <hi>Greeks</hi> and <hi>Barbarians</hi> have refuſed ſuch prin<g ref="char:EOLhyphen"/>cipalities when they were offered to them: Theſe things being foreſeen, conſider well before thou doe attempt, for being once entred thou canſt not eaſily go back; be<g ref="char:EOLhyphen"/>ware leſt the greatneſs of the Power, the largneſs of thy poſſeſsions, the multitude of thy guards, and the throng of thy ſervants do deceive thee, for they which can doe much, have alſo much buſineſſe to do; and they which poſſeſſe much, have alſo many expences: The troops of guards were invented by reaſon of the many treacheries Princes are ſubject too; yet theſe flatterers are oft the cauſers of their deſtruction, more than of their ſafety. And for theſe reaſons no man that is truly wiſe, can de<g ref="char:EOLhyphen"/>ſire to be made a King: But if any think it is to be de<g ref="char:EOLhyphen"/>ſired, becauſe he findes riches there, and that he hath po<g ref="char:EOLhyphen"/>wer to preſerve ſome, and that he may do many good things (and ſome evill too) if it ſeem good unto him; this man doubtleſſe doth miſtake the truth; for to be wicked, and to hurt other perſons, how hatefull is it both to God and men, and how dangerous it is I need not ſpeak, becauſe thou art not ſuch a one, neither to effect ſuch things wouldſt thou deſire to be a Prince.</p>
+            <p>Neither is it my purpoſe at preſent,<note place="margin">
+                  <hi>Sect.</hi> 9.</note> to tell how great evills he muſt doe, who covets not moſt earneſtly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o reigne righteouſly; but rather what things are to be done and ſuffered alſo, even by ſuch who uſe their pow<g ref="char:EOLhyphen"/>er beſt. And to that which is ſaid, that by ſuch power great benefits may be conferred upon poor Mortall Crea<g ref="char:EOLhyphen"/>tures, this I confeſſe is moſt deſirable: [but ſith this thing in a private perſon is both Honeſt, Commendable, Glo<g ref="char:EOLhyphen"/>rious and Secure, but in the <hi>Government of a ſingle-perſon,</hi> that good is not comparable to the other evills that at<g ref="char:EOLhyphen"/>tend; and that for this good thoſe evills muſt be choſen: for the fruits of this <hi>Bounty</hi> ſhall redound moſt of all to others, but the greif of all the <hi>Evill</hi> muſt return upon himſelf. Beſides, it is not ſo eaſy a matter as ſome think, that one perſon ſhould ſuffice to ſupply the neceſſities of
+<pb n="9" facs="tcp:119068:6"/>ſo many; for, thoſe that account themſelves worthy to receive a Benefit, are (in a manner) all ſorts of men, al<g ref="char:EOLhyphen"/>though they have deſerved nothing from him; for, even every man by nature is apt to be well conceited of him<g ref="char:EOLhyphen"/>ſelf, and is willing to receive a benefit from him who is able to beſtow it: But now thoſe things that can be gi<g ref="char:EOLhyphen"/>ven <hi>(viz)</hi> Honours, Preferments and ſometime Monie's alſo, are but a very few being compared to ſo great a multitude, of men; which thing ſince it is moſt true, more hatred will ariſe from ſuch who cannot obtaine the things which they deſire, than good will from thoſe which do receive them. For theſe reckon themſelve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to have received but their due, and ſo believe they are not much engaged to him, that hath conferred the Benefit, having nothing given, but what they did expect: beſide, they are ſlow in rendering thanks, leſt hereby they may ſeem unworthy of that which is beſtowed upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem: but now in thoſe who ſhall not obtain the things which they deſired, are troubled upon two accounts; firſt, be<g ref="char:EOLhyphen"/>cauſe they are deprived of that which is their own, for all men reckon that to be theirs, which they have deſer<g ref="char:EOLhyphen"/>ved, and then, if they bear patiently the repulſe, they ſeem to him to acknowledge themſelves unworthy of ſuch a benefit: Again, he who juſtly diſtributes thoſe fa<g ref="char:EOLhyphen"/>vours, appeares to have diligently conſidered the merrits of each perſon, and to have rewarded ſome, and diſre<g ref="char:EOLhyphen"/>garded others: whereupon pride ſprings up in the Con<g ref="char:EOLhyphen"/>ſcience of the one, but greife and vexation in the other. And if any fearing this, would therefore diſtribute his favours without choiſe, he would not mend the matter at all; becauſe wicked men and undeſerving, being hono<g ref="char:EOLhyphen"/>red, doe become the worſe, thinking themſelves either praiſworthy, becauſe they are good, or flattered becauſe formidable: but now the good men being no more va<g ref="char:EOLhyphen"/>lued than the worſt, and ſeeing theſe to be made equall with them, would rather grieve for this under-valuing, than rejoyce in the benefits received: whereupon they would leave off the proſecution of better things, and by degrees become as bad as they: Therefore that which is moſt deſirable in <hi>King-ſhip,</hi> you ſee is the hardeſt to be put in practice.</p>
+            <pb n="10" facs="tcp:119068:7"/>
+            <p>Theſe things and what elſe I have here mentioned, conſider well,<note place="margin">
+                  <hi>Sect.</hi> 10.</note> whileſt there is yet an opportunity; and be<g ref="char:EOLhyphen"/>ing wiſe, <hi>Reſtore again to the People their Militia, their Ter<g ref="char:EOLhyphen"/>ritories, their Government, and their Monys,</hi> which if thou ſhalt now <hi>willingly</hi> and of <hi>thine own accord</hi> perform, thou wilt <hi>excell all mortall men in fame and honour,</hi> and wilt be in thy <hi>Perſon moſt ſecure;</hi> but if thou ſhalt <hi>Deferre</hi> till ſome power ſhall <hi>compell,</hi> thou <hi>wilt</hi> doubtleſſe <hi>with diſgrace and ſhame ſuſtain ſome evill.</hi> Thou mayeſt take examples from <hi>Marius</hi> and <hi>Sylla, Metellus</hi> and <hi>Pompey,</hi> who when they might, would not <hi>King</hi> it amongſt the People; by which they did receive <hi>no damage:</hi> But <hi>Cinna</hi> and <hi>Strabo,</hi> the o<g ref="char:EOLhyphen"/>ther <hi>Marius, Sertorius</hi> and <hi>Pompey</hi> himſelf, after they were once inflamed with a deſire of <hi>Reigning,</hi> did periſh baſe<g ref="char:EOLhyphen"/>ly: It will be difficult to make this people (who have ſo many years been free, and ruled over others) ſubject to the will of <hi>One: Camillus,</hi> who triumphed gloriouſly <hi>was baniſhed</hi> by our Anceſtors: And they <hi>ſpoiled Scipio,</hi> when they perceived him to grow too big: And remem<g ref="char:EOLhyphen"/>ber <hi>thy own Father,</hi> who but for ſuſpition to <hi>affect the Kingdome,</hi> was miſerably deſtroyed by them: And there were never any that were better than theſe men.</p>
+            <p>Yet do I not perſwade thee ſo ſpeedily to lay aſide the Government, that thou ſhouldſt not provide for the bleſsings of the people, and after the example of <hi>Sylla,</hi> take care for what ſhall be convenient by good conſtitu<g ref="char:EOLhyphen"/>tions, for although many of them were afterwards ab<g ref="char:EOLhyphen"/>brogated, yet a great and the better part of them remain: Neither would I have thee object and ſay, that <hi>new trou<g ref="char:EOLhyphen"/>bles and tumuls</hi> will ariſe; for I muſt anſwer, that the <hi>peo<g ref="char:EOLhyphen"/>ple oppreſt with Tyranny, will much ſooner attempt new mat<g ref="char:EOLhyphen"/>ters;</hi> and if we will rightly conſider things, the <hi>fears of diſcords,</hi> which we think are wont to ariſe from a <hi>Popular Government,</hi> rather than from the government of a <hi>ſin<g ref="char:EOLhyphen"/>gle Perſon,</hi> are without any <hi>ſhew of reaſon</hi> at all; of the greatnes of which troubles, I ſhall not ſpeak at all, leſt I ſhould ſeem to be deſirous to make that appear evill, which is ſo evill in it ſelf. And that this <hi>Government by One</hi> is ſuch, this one thing is ſufficient to convince, that the very nature of it, <hi>is to turn honeſt men into Knaves.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
